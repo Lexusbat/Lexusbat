@@ -8,7 +8,7 @@
 
 - [About Me](#about-me-)
 - [Projects and Objectives](#projects-and-objectives-)
-- [Skills](#skills-)
+- [Skills](#skills--)
 - [Contact](#contact)
 
 ## About Me 👾

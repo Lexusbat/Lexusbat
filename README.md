@@ -7,7 +7,7 @@
 ## Table of Contents 📜
 
 - [About Me](##about-me)
-- [Projects](##projects)
+- [Projects and Objectives](##projects-and-objectives)
 - [Skills](##skills)
 - [Contact](##contact)
 

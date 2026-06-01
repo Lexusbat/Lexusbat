@@ -23,9 +23,6 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 [![My Skills](https://skillicons.dev/icons?i=html,python,bash,linux,discord,git,github,ubuntu,unity,unreal,vscode,windows,gmail)](https://skillicons.dev)
 
 ### Contact 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-
-skye.lexus205@gmail.com
-
+[![Email](https://img.shields.io/badge/skye.lexus205@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skye.lexus205@gmail.com)
 
 

@@ -2,7 +2,8 @@ Greetings all
   👾⋆˚☆˖°👾
 
 ─── ⋆⋅☆⋅⋆ ──
-★~SKYE LEXUS DELORT~★》
+
+《★~SKYE LEXUS DELPORT~★》
 
 ## Table of Contents 📜
 

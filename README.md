@@ -6,7 +6,7 @@
 
 I am a curious individual with a goal to experiment and create my own software. I have had familiarity with IT and coding, as I had taken IT and learnt Delphi coding, creating games and applications using OOP and Databases (SQL), in High School. Although i found it challenging sometimes, I did however found IT to be my favourite subject and class to attend to. 🤩
 
-### My Goal
+### My Goal 🌸
 
 My goal is to become a Software Developer, working in an envirnment i love, creating software, working with people like me, challenging myself with obstacles and coding, improving and learning every step of the way. Future Projects have yet to come!🤩 (˶>⩊<˶)
 

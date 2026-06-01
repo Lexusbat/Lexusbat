@@ -6,10 +6,10 @@
 
 ## Table of Contents 📜
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [About Me](##about-me)
+- [Projects](##projects)
+- [Skills](##skills)
+- [Contact](##contact)
 
 ## About Me 👾
 

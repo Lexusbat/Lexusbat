@@ -30,7 +30,8 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 
 ## Contact 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+
 skye.lexus205@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
 
 

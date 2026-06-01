@@ -1,9 +1,8 @@
-Greetings all 
+## Greetings all 
   👾⋆˚☆˖°👾
+ ─── ⋆⋅☆⋅⋆ ──
 
-─── ⋆⋅☆⋅⋆ ──
-
-《★~SKYE LEXUS DELPORT~★》
+## 𝐒𝐊𝐘𝐄 𝐋𝐄𝐗𝐔𝐒 𝐃𝐄𝐋𝐏𝐎𝐑𝐓
 
 ## Table of Contents 📜
 

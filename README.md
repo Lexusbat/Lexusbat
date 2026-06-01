@@ -11,3 +11,4 @@ My goal is to become a Software Developer, working in an envirnment i love, crea
 So sit back, relax and enjoy the struggles and truimphs!🍿
 ‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

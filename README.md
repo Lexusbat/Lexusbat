@@ -1,11 +1,11 @@
 ## 𝐒𝐊𝐘𝐄 𝐋𝐄𝐗𝐔𝐒 𝐃𝐄𝐋𝐏𝐎𝐑𝐓
   
  ─── ⋆⋅☆⋅⋆ ──
-
+---
 ### About Me 👾
 
 I am a curious individual with a goal to experiment and create my own software. I have had familiarity with IT and coding, as I had taken IT and learnt Delphi coding, creating games and applications using OOP and Databases (SQL), in High School. Although i found it challenging sometimes, I did however found IT to be my favourite subject and class to attend to. 🤩
-
+---
 ### My Goal 🌸
 
 My goal is to become a Software Developer, working in an envirnment i love, creating software, working with people like me, challenging myself with obstacles and coding, improving and learning every step of the way. Future Projects have yet to come!🤩 (˶>⩊<˶)
@@ -60,12 +60,13 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skye.lexus205@gmail.com) 
 
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Lexusbat&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lexusbat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

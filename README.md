@@ -1,7 +1,7 @@
 ## 𝐒𝐊𝐘𝐄 𝐋𝐄𝐗𝐔𝐒 𝐃𝐄𝐋𝐏𝐎𝐑𝐓
   
  ─── ⋆⋅☆⋅⋆ ──
----
+
 ### About Me 👾
 
 I am a curious individual with a goal to experiment and create my own software. I have had familiarity with IT and coding, as I had taken IT and learnt Delphi coding, creating games and applications using OOP and Databases (SQL), in High School. Although i found it challenging sometimes, I did however found IT to be my favourite subject and class to attend to. 🤩
@@ -9,7 +9,7 @@ I am a curious individual with a goal to experiment and create my own software. 
 ### My Goal 🌸
 
 My goal is to become a Software Developer, working in an envirnment i love, creating software, working with people like me, challenging myself with obstacles and coding, improving and learning every step of the way. Future Projects have yet to come!🤩 (˶>⩊<˶)
-
+---
 ### Skills ♠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

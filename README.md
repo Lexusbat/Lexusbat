@@ -6,16 +6,14 @@
 
 I am a curious individual with a goal to experiment and create my own software. I have had familiarity with IT and coding, as I had taken IT and learnt Delphi coding, creating games and applications using OOP and Databases (SQL), in High School. Although i found it challenging sometimes, I did however found IT to be my favourite subject and class to attend to. 🤩
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lexusbat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### My Goal 🌸
 
 My goal is to become a Software Developer, working in an envirnment i love, creating software, working with people like me, challenging myself with obstacles and coding, improving and learning every step of the way. Future Projects have yet to come!🤩 (˶>⩊<˶)
-
-### Projects and Objectives ✨
-
-My Objective is to track my progress in learning Python, including Python Scripting and Automation, Python Game Development, Web Scraping, Beautiful Soup, Selenium Web Driver, Request, WTForms, Data Science, Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn, Turtle, Python GUI Desktop App Development, Tkinter, Front-End Web Development, HTML 5, CSS 3, Bootstrap 4, Bash Command Line, Git, GitHub and Version Control, Backend Web Development, Flask, REST, APIs, Databases, SQL, SQLite, PostgreSQL, Authentication, Web Design, Deployment with GitHub Pages, Heroku and GUnicorn and much much more! Ill be following this course: 100 Days of Code™: The Complete Python Pro Bootcamp by Dr Angela Yu and many other courses and personal projects to come.🌟
-
-So sit back, relax and enjoy the struggles and truimphs!🍿
-‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅
 
 ### Skills ♠️
 
@@ -38,8 +36,28 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### Contact 
-[![Email](https://img.shields.io/badge/skye.lexus205@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skye.lexus205@gmail.com)
 
+
+### Projects and Objectives ✨
+
+My Objective is to track my progress in learning Python, including Python Scripting and Automation, Python Game Development, Web Scraping, Beautiful Soup, Selenium Web Driver, Request, WTForms, Data Science, Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn, Turtle, Python GUI Desktop App Development, Tkinter, Front-End Web Development, HTML 5, CSS 3, Bootstrap 4, Bash Command Line, Git, GitHub and Version Control, Backend Web Development, Flask, REST, APIs, Databases, SQL, SQLite, PostgreSQL, Authentication, Web Design, Deployment with GitHub Pages, Heroku and GUnicorn and much much more! Ill be following this course: 100 Days of Code™: The Complete Python Pro Bootcamp by Dr Angela Yu and many other courses and personal projects to come.🌟
+
+So sit back, relax and enjoy the struggles and truimphs!🍿
+‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅
+
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lexusss3bats) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Skye Lexus Delport) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skye.lexus205@gmail.com) 
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Lexusbat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

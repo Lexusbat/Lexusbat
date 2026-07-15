@@ -15,14 +15,14 @@ Future Projects have yet to come!🤩 (˶>⩊<˶)
 
 I'm continuously expanding my skills by learning:
 
-React ecosystem
-Django
-FastAPI
-Modern JavaScript (ES6+)
-Full-stack web development
-Software architecture
-Data Science fundamentals
-Machine Learning
+-React ecosystem
+-Django
+-FastAPI
+-Modern JavaScript (ES6+)
+-Full-stack web development
+-Software architecture
+-Data Science fundamentals
+-Machine Learning
 
 ### Skills ♠️
 

@@ -1,88 +1,130 @@
 ## 𝐒𝐊𝐘𝐄 𝐋𝐄𝐗𝐔𝐒 𝐃𝐄𝐋𝐏𝐎𝐑𝐓
+
+### Software Developer | Python Enthusiast | Full-Stack Learner
   
  ─── ⋆⋅☆⋅⋆ ──
 
 ### About Me 👾
-I'm a curious individual from South Africa with a passion for software development, automation, and solving real-world problems through technology. My journey into programming began with Python and has since expanded into full-stack web development, APIs, databases, and modern JavaScript frameworks.
-I enjoy building projects that challenge me to learn new technologies, whether it's developing web applications, automating repetitive tasks, creating desktop utilities, or exploring data analysis and machine learning.🤩
 
-### My Goal 🌸
-My goal is to become a versatile software developer capable of designing clean, scalable, and user-focused applications. I believe the best way to improve is by building projects, solving problems, and continuously learning new technologies.
-I'm always looking for opportunities to collaborate, contribute to open-source projects, and grow as a developer.
-Future Projects have yet to come!🤩 (˶>⩊<˶)
+I'm a curious individual from South Africa with a passion for software development, automation, and solving real-world problems through technology. My journey into programming began with Python and has since expanded into full-stack web development, APIs, databases, and modern JavaScript frameworks. I enjoy building projects that challenge me to learn new technologies, whether it's developing web applications, automating repetitive tasks, creating desktop utilities, or exploring data analysis and machine learning.🤩
 
-## 🚀 What I'm Currently Learning
 
-I'm continuously expanding my skills by learning:
+---
 
-- React ecosystem
-- Django
-- FastAPI
-- Modern JavaScript (ES6+)
-- Full-stack web development
-- Software architecture
-- Data Science fundamentals
-- Machine Learning
+## 🚀 About Me
 
-## 📂 Projects You'll Find Here
+- 💻 Currently building Python and React projects
+- 🌱 Learning React, Django, FastAPI & Machine Learning
+- 🛠️ Interested in Full-Stack Development, Automation, and Data Science
+- 📚 Always learning something new
+- 🎯 Goal: Become a professional Software Developer
 
-My repositories include projects such as:
+---
 
-- 🌐 Full-stack web applications
-- 🐍 Python automation scripts
-- 📊 Data analysis projects
-- 🎮 Small games
-- 🕸️ Web scraping tools
-- 🔌 API integrations
-- 📱 Responsive web design
-- 🧪 Programming experiments while learning new technologies
-  
-### Skills ♠️
+## 💻 Tech Stack
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+### Other Software/Skills
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lexusbat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📂 Featured Projects
 
+- 🧩 **Pokedex** — Flask application using the PokéAPI
+- 🌐 **Portfolio Website** — React + Tailwind CSS
+- 🤖 **Python Automation Scripts**
+- 📊 **Data Analysis Projects**
+- 🕷️ **Web Scraping Tools**
+- 🎮 **Python Mini Games**
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lexusss3bats) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skye.lexus205@gmail.com) 
+---
 
+## 🌱 Currently Learning
+
+- React Ecosystem
+- Django
+- FastAPI
+- REST APIs
+- Modern JavaScript (ES6+)
+- Software Architecture
+- Machine Learning
+- Data Science
+  
+So sit back, relax and enjoy the struggles and truimphs!🍿
+‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready full-stack applications
+- Learn Django & FastAPI
+- Explore Machine Learning
+- Contribute to Open Source
+- Grow my GitHub portfolio
+- Land a Software Developer role
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Lexusbat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/skye-lexus-delport-334ab62a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+> *"Code, learn, build, repeat."*

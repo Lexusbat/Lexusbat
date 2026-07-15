@@ -59,7 +59,7 @@ I'm a curious individual from South Africa with a passion for software developme
 ## 📂 Featured Projects
 
 - 🧩 **Pokedex** — Flask application using the PokéAPI
-- 🌐 **Portfolio Website** — React + Tailwind CSS
+- 🌐 **OddOwl Website** — React + Tailwind CSS
 - 🤖 **Python Automation Scripts**
 - 📊 **Data Analysis Projects**
 - 🕷️ **Web Scraping Tools**

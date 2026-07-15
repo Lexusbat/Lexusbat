@@ -7,8 +7,9 @@ I'm a curious individual from South Africa with a passion for software developme
 I enjoy building projects that challenge me to learn new technologies, whether it's developing web applications, automating repetitive tasks, creating desktop utilities, or exploring data analysis and machine learning.🤩
 
 ### My Goal 🌸
-
-My goal is to become a Software Developer, working in an envirnment i love, creating software, working with people like me, challenging myself with obstacles and coding, improving and learning every step of the way. Future Projects have yet to come!🤩 (˶>⩊<˶)
+My goal is to become a versatile software developer capable of designing clean, scalable, and user-focused applications. I believe the best way to improve is by building projects, solving problems, and continuously learning new technologies.
+I'm always looking for opportunities to collaborate, contribute to open-source projects, and grow as a developer.
+Future Projects have yet to come!🤩 (˶>⩊<˶)
 
 ### Skills ♠️
 

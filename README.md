@@ -11,6 +11,19 @@ My goal is to become a versatile software developer capable of designing clean, 
 I'm always looking for opportunities to collaborate, contribute to open-source projects, and grow as a developer.
 Future Projects have yet to come!🤩 (˶>⩊<˶)
 
+### 🚀 What I'm Currently Learning
+
+I'm continuously expanding my skills by learning:
+
+React ecosystem
+Django
+FastAPI
+Modern JavaScript (ES6+)
+Full-stack web development
+Software architecture
+Data Science fundamentals
+Machine Learning
+
 ### Skills ♠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

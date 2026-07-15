@@ -86,8 +86,8 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lexusbat&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexusbat&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ So sit back, relax and enjoy the struggles and truimphs!🍿
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Lexusbat&theme=github-dark&hide_border=true"/>
 </p>
 
 ---

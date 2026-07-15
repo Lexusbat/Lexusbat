@@ -3,8 +3,8 @@
  ─── ⋆⋅☆⋅⋆ ──
 
 ### About Me 👾
-
-I am a curious individual with a goal to experiment and create my own software. I have had familiarity with IT and coding, as I had taken IT and learnt Delphi coding, creating games and applications using OOP and Databases (SQL), in High School. Although i found it challenging sometimes, I did however found IT to be my favourite subject and class to attend to. 🤩
+I'm a curious individual from South Africa with a passion for software development, automation, and solving real-world problems through technology. My journey into programming began with Python and has since expanded into full-stack web development, APIs, databases, and modern JavaScript frameworks.
+I enjoy building projects that challenge me to learn new technologies, whether it's developing web applications, automating repetitive tasks, creating desktop utilities, or exploring data analysis and machine learning.🤩
 
 ### My Goal 🌸
 

@@ -36,6 +36,7 @@ My repositories include projects such as:
 - 🔌 API integrations
 - 📱 Responsive web design
 - 🧪 Programming experiments while learning new technologies
+  
 ### Skills ♠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,13 +68,6 @@ My repositories include projects such as:
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-### Projects and Objectives ✨
-
-My Objective is to track my progress in learning Python, including Python Scripting and Automation, Python Game Development, Web Scraping, Beautiful Soup, Selenium Web Driver, Request, WTForms, Data Science, Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn, Turtle, Python GUI Desktop App Development, Tkinter, Front-End Web Development, HTML 5, CSS 3, Bootstrap 4, Bash Command Line, Git, GitHub and Version Control, Backend Web Development, Flask, REST, APIs, Databases, SQL, SQLite, PostgreSQL, Authentication, Web Design, Deployment with GitHub Pages, Heroku and GUnicorn and much much more! Ill be following this course: 100 Days of Code™: The Complete Python Pro Bootcamp by Dr Angela Yu and many other courses and personal projects to come.🌟
-
-So sit back, relax and enjoy the struggles and truimphs!🍿
-‧₊˚ ⋅ ☕︎ 𓎩 ‧₊˚ ⋅
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Lexusbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

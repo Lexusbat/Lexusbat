@@ -1,6 +1,6 @@
 ## 𝐒𝐊𝐘𝐄 𝐋𝐄𝐗𝐔𝐒 𝐃𝐄𝐋𝐏𝐎𝐑𝐓
 
-### Software Developer | Python Enthusiast | Full-Stack Learner
+### Software Developer | Web Developer| Full-Stack Learner
   
  ─── ⋆⋅☆⋅⋆ ──
 
@@ -14,7 +14,7 @@ I'm a curious individual from South Africa with a passion for software developme
 ## 🚀 About Me
 
 - 💻 Currently building Python and React projects
-- 🌱 Learning React, Django, FastAPI & Machine Learning
+- 🌱 Learning React, Django, FastAPI, CSS, Tailwind & Machine Learning
 - 🛠️ Interested in Full-Stack Development, Automation, and Data Science
 - 📚 Always learning something new
 - 🎯 Goal: Become a professional Software Developer
